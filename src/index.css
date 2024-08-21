@@ -1,0 +1,741 @@
+
+#logo {
+  text-align: center;
+  position: relative;
+  right:6%;
+}
+
+.naav {
+  display: flex;
+  justify-content: space-between; 
+  position: relative;
+  right: 20%;
+  padding: 15px;
+  margin-top: 5px;
+  font-size: 19px;
+  color: black;
+
+}
+
+.nav-link {
+  text-decoration: none;
+  padding:20px;
+  margin-left: 50px;
+  margin-right:5%;
+  color: black;
+  margin-right: -153px;
+
+}
+.nav-link :hover {
+  text-decoration: underline;
+}
+#slider{
+  height: 440px;
+  margin: 9px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photo{
+ width: 100%;
+}
+#slide{
+  position: relative;
+  bottom: 190px;
+  right: 28%;
+  font-size: 33px;
+  color: white;
+  font-family: cursive;
+}
+button{
+position: relative;
+right:28%;
+bottom:170px;
+padding:8px;
+}
+button:hover {
+color: blue;
+}
+.section1{
+  height: 500px;
+  position: relative;
+  right: 32%;
+  top:80px;
+  font-size: 20px;
+
+}
+
+.p-1{
+  position: relative;
+  color: black;
+  top: 10px;
+  left: 720px;
+  font-size: 22px;
+  font-family: serif;
+  width: fit-content;
+}
+h4{
+  position: relative;
+  left: 75%;
+  bottom:120px;
+  width:15%;
+  /* background: rgb(244, 244, 245); */
+ font-family: serif;
+}
+h5{
+  position: relative;
+  left:100%;
+  bottom:350px;
+  width:15%;
+
+  padding: 15px;
+  font-family: serif;
+  /* background: rgb(244, 244, 245); */
+}
+span{
+  position: relative;
+  bottom:10px;
+  font-weight: bold;
+
+}
+.section2{
+  height: 600px;
+  background: darkgray;
+
+}
+img {
+  margin: 20px;
+  padding: 10px;
+
+}
+p{
+  color:black;
+  position: relative;
+  bottom: 15px;
+  right: 20%;
+  font-size: 24px;
+}
+#two{
+  position: relative;
+  right:69px;
+  bottom: 70px;
+
+}
+#three{
+  position: relative;
+  left:15%;
+  bottom: 122px;
+}
+#text{
+  padding: 3%;
+  font-family:serif;
+}
+
+.btnn{
+  /* background: rgb(59 63 255); */
+  padding: 5px;
+  border-radius: 15%;
+  position: relative;
+  bottom:100px;
+  left: 20%;
+}
+
+.section3{
+  height: 800px;
+  padding-top: 2%;
+}
+#pragraph3{
+  color: black;
+  position: relative;
+  left: 10%;
+  font-size:30px;
+  bottom:5px;
+
+}
+h6{
+  position: relative;
+  left: 15%;
+  bottom: 17px;
+
+}
+#pragh{
+position: relative;
+right: 3%;
+top : 5px;
+font-size: 19px;  
+}
+#slid3{
+  position: relative;
+  right:18%;
+
+}
+.form-container{
+  position: relative;
+  bottom: 420px;
+  left: 15%;
+}
+#frm{
+  position: relative;
+  right: 120px;
+  bottom:12px;
+  padding-right:8px;
+  background-color: blueviolet;
+
+}
+.section4{
+  height: 250px;
+  background: blueviolet;
+  position: relative;
+  bottom: 355px;
+  text-align: center;
+}
+.pragh4{
+  display: inline-block;
+  color: black;
+  margin-right: 4%;
+  position: relative;
+  left: 66px;
+  top: 50px;
+  font-family: cursive;
+  font-size: 25px;
+}
+.section5{
+  height: 600px;
+  padding: 2%;
+  background: rgb(231 219 219);
+  position: relative;
+  bottom: 316px;
+  font-family:c-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#pragh5{
+  font-family: 'Mina', sans-serif;
+  color: #1b0057;
+}
+.txt{
+  color: black;
+  position: relative;
+  left: 2%;
+  display: inline-block;
+  bottom: 40px;
+  margin-right: 70px;
+  text-align: center;
+}
+#txt1{
+  position: relative;
+  left: 9%;
+  top: -46px;
+  font-family: 'Mina', sans-serif;
+  color: #1b0057;
+}
+
+#txt2{
+  position: relative;
+  left: 28%;
+  top: -201px;
+  font-family: 'Mina', sans-serif;
+  color: #1b0057;
+}
+#txt3{
+  position: relative;
+    left: 46%;
+    top: -365px;
+    font-family: 'Mina', sans-serif;
+    color: #1b0057;
+}
+#txt4{
+  position: relative;
+  left: 64%;
+  top: -523px;
+  font-family: 'Mina', sans-serif;
+  color: #1b0057;
+}
+#sora{
+  height: auto;
+  margin-right: 30px;
+  width: 96rem;
+  position: relative;
+  bottom: 14px;
+}
+
+.footer{
+  height: 600px;
+  color: black;
+  background-color: rebeccapurple;
+  position: relative;
+    bottom: 171px;
+}
+#foter1{
+  position: relative;
+  top: -83%;
+  left: -30%;
+  color: white;
+  text-decoration: underline;
+
+}
+#foter2{
+  position: relative;
+  top: -118%;
+  left: -3%;
+  color: white;
+  text-decoration: underline;
+
+}
+#foter3{
+  position: relative;
+  top: -152%;
+  left: 20%;
+  color: white;
+  text-decoration: underline;
+
+  }
+  #foterone{
+    position: relative;
+    top: -82%;
+    width: 11rem;
+    color: white;   
+    font-size: 20px;
+  }
+  .fotertwo{
+    position: relative;
+    top: -117%;
+    left: -3%;
+    color: white;
+  }
+ .foterthree{
+  position: relative;
+  top: -151%;
+  left: 20%;
+  color: white;
+ }
+#Dev{
+  position: relative;
+  top: 193px;
+  left: -30%;
+  color: wheat;
+}
+#ourDoc {
+  position: relative;
+  top: 193px;
+  left: -30%;
+  color: wheat;
+}
+.About1{
+  position: relative;
+  bottom: 55px;
+
+}
+#title{
+  position: relative;
+  right: 31%;
+  top: 73px;
+  color: black;
+}
+#title2{
+  position: relative;
+    bottom: -80px;
+    font-size: 18px;
+    color: black;
+    width: 28rem;
+    left: 6%;
+}
+.phots{
+  position: relative;
+  left: 10%;
+  bottom: 225px;
+} 
+.About2{
+  height: 400px;
+  background: lightgrey;
+
+}
+.testt{
+  position: relative;
+  bottom: 69px;
+  font-family: monospace;
+  font-size: 37px;
+}
+#card1 {
+  font-size: 18px;
+  position: relative;
+  left: 14%;
+  width: 14rem; 
+  background: lightgrey;
+  border: 2px solid rgb(11, 158, 184); 
+  border-radius: 19%;
+  padding: 5px;
+  top: 5%;
+}
+
+#card2{
+  font-size: 18px;
+    position: relative;
+    left: 44%;
+    bottom: 197px;
+    width: 14rem;
+    background: lightgrey;
+    line-height: 35px;
+    border: 2px solid rgb(11, 158, 184);
+    border-radius: 19%;
+    padding: 7px;
+    margin: 2px;
+}
+#card3{
+  position: relative;
+  left: 72%;
+  bottom: 389px;
+  background: lightgrey;
+  font-size: 18px;
+  border: 2px solid rgb(11, 158, 184);
+  border-radius: 19%;
+  padding: 10px;
+  width: 12rem;
+
+}
+
+
+
+
+
+.foter {
+  .site-footer {
+    background-color: #26272b;;
+    padding: 45px 0 20px;
+    font-size: 15px;
+    height:400px; 
+    color: white;
+    font-size: 20px;
+  position: relative;
+  top: 80px;
+  }
+
+  .site-footer hr {
+    border-top-color: #bbb;
+    opacity: 0.5
+  }
+
+  .site-footer hr.small {
+    margin: 20px 0
+  }
+
+  .site-footer h6 {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px
+  }
+
+  .site-footer a {
+    color: white;
+  }
+
+  .site-footer a:hover {
+    color: #3366cc;
+    text-decoration: none;
+  }
+
+  .footer-links {
+    padding-left: 0;
+    list-style: none
+  }
+
+  .footer-links li {
+    display: block
+  }
+
+  .footer-links a {
+    color: #737373
+  }
+
+  .footer-links a:active,
+  .footer-links a:focus,
+  .footer-links a:hover {
+    color: #3366cc;
+    text-decoration: none;
+  }
+
+  .footer-links.inline li {
+    display: inline-block
+  }
+
+  .site-footer .social-icons {
+    text-align: right
+  }
+
+  .site-footer .social-icons a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 6px;
+    margin-right: 0;
+    border-radius: 100%;
+    background-color: purple;
+  }
+
+  .copyright-text {
+    margin: 0
+  }
+
+  @media (max-width:991px) {
+    .site-footer [class^=col-] {
+      margin-bottom: 30px
+    }
+  }
+
+  @media (max-width:767px) {
+    .site-footer {
+      padding-bottom: 0
+    }
+
+    .site-footer .copyright-text,
+    .site-footer .social-icons {
+      text-align: center
+    }
+  }
+
+  .social-icons {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none
+  }
+
+  .social-icons li {
+    display: inline-block;
+    margin-bottom: 4px
+  }
+
+  .social-icons li.title {
+    margin-right: 15px;
+    text-transform: uppercase;
+    color: #96a2b2;
+    font-weight: 700;
+    font-size: 13px
+  }
+
+  .social-icons a {
+    background-color: #eceeef;
+    color: #818a91;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 44px;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    margin-right: 8px;
+    border-radius: 100%;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear
+  }
+
+  .social-icons a:active,
+  .social-icons a:focus,
+  .social-icons a:hover {
+    color: #fff;
+    background-color: #29aafe
+  }
+
+  .social-icons.size-sm a {
+    line-height: 34px;
+    height: 34px;
+    width: 34px;
+    font-size: 14px
+  }
+
+  .social-icons a.facebook:hover {
+    background-color: #3b5998
+  }
+
+  .social-icons a.twitter:hover {
+    background-color: #00aced
+  }
+
+  .social-icons a.linkedin:hover {
+    background-color: #007bb6
+  }
+
+  .social-icons a.dribbble:hover {
+    background-color: #ea4c89
+  }
+
+  @media (max-width:767px) {
+    .social-icons li.title {
+      display: block;
+      margin-right: 0;
+      font-weight: 600
+    }
+  }
+}
+
+
+
+#soraheader{
+  position: relative;
+  top: -15px;
+  left: -5%;
+}
+
+#Devv2{
+  position: relative;
+  top: 20px;
+  left: 30%;
+  color: blue;;
+}
+#ourDooc2{
+  position: relative;
+  top: 20px;
+  left: 30%;
+  color: blue;
+}
+
+.One{
+  position: relative;
+  left: 12%;
+  top: 13px;
+
+}
+.Twoo{
+  position: relative;
+  left: 30%;
+  bottom: 290px;
+}
+
+.Threee{
+  position: relative;
+  left: 69%;
+  bottom: 594px;  
+}
+#soraOne{
+  position: relative;
+  left: -30%;
+  top: 37px;
+}
+
+#soratwoo{
+  position: relative;
+  bottom: 262px;
+  left: -12%;
+}
+#sorathree{
+  position: relative;
+  bottom: 566px;
+  left: 30%;
+}
+
+#cardtitle{
+  position: relative;
+    bottom: 36px;
+    left: 18px;
+}
+#cardtext{
+  position: relative;
+  bottom: 38px;
+  left: 13px;
+}
+
+#cardd{
+  position: relative;
+  left: 20px;
+}
+
+
+.image1{
+  position: relative;
+  left:3%;
+  transition: 1s;
+}
+.image1:hover{
+  background: yellowgreen;
+  transform: translateY(25px); 
+  transform: translateY(-25px);
+}
+
+.image2{
+  position: relative;
+  left:10%;
+  transition: 1s;
+
+  
+}
+.image2:hover {
+  background: yellowgreen;
+transform: translateY(22px); 
+transform: translateY(-22px);
+
+}
+.image3{
+  position: relative;
+  left:15%;
+  transition: 1s;
+}
+.image3:hover {
+  background: yellowgreen;
+  transform: translateY(25px); 
+  transform: translateY(-25px);
+}
+.image4{
+  position: relative;
+  top:340px;
+ right:9%;
+ transition: 1s;
+}
+.image4:hover {
+  background: yellowgreen;
+  transform: translateY(25px); 
+  transform: translateY(-25px); 
+}
+.image5{
+  position: relative;
+ right:21%;
+ transition: 1s;
+}
+.image5:hover {
+  background: yellowgreen;
+  transform: translateY(25px); 
+  transform: translateY(-25px);  
+}
+.image6{
+  position: relative;
+  right:14%;
+  transition: 1s;
+}
+
+.image6:hover {
+  background: yellowgreen;
+  transform: translateY(25px); 
+  transform: translateY(-25px);
+} 
+.parent{
+  padding: 25px;
+} 
+#serv2{
+  position: relative;
+  right: 25px;
+}
+.contact{
+  padding: 1%;
+  margin-right: 16px;
+  height: 533px;
+  background: lightgrey;
+  width: 99%;
+}
+
+#con{
+  position: relative;
+  top:-9px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-containerrr{
+  position: relative;
+  top:10px;
+}
+#frmm{
+  position: relative;
+  left: 1%;
+  bottom: 10px;
+  padding: 10px;
+  width: 7%;
+
+}
+.form-containerrr :hover{
+  background: yellowgreen;
+}
