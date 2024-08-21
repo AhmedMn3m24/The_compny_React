@@ -19,6 +19,7 @@ function Home() {
        {/* ******************************************************* */}
  <div className='section1'>
  <h2> Why Choose Our Clinic</h2>
+ <h2> Why Choose Our Clinic</h2>
  <p className='p-1'>For more than a century, people from all walks of life<br/> Here are some reasons why more than a million people<br/> each year choose our Clinic for their medical care:</p>
  <h4>More exprnince<br/>
  Every year, more than a million people come to the Clinic for care. Our highly specialized experts are deeply experienced in treating rare and complex conditions. </h4>
